@@ -1,12 +1,14 @@
 # Automatic Number Plate Detection & Blurring
 
-This project implements a **custom deep learning model** to detect number plates in vehicle images and automatically blur them for privacy. The model is trained from scratch using PyTorch and annotated datasets in XML format.  
+This project implements a **custom deep learning model** to detect number plates in vehicle images and automatically blur them for privacy.It fine-tunes a **torchvision Faster R-CNN** detector on **PASCAL VOC XML** annotations where **images and XML files live in the same folder** for each split.
 
 ## Features
-- Detects number plates accurately, even when there are other numbers or texts in the background.  
-- Automatically blurs the detected number plates to protect privacy.  
-- Handles images of various sizes, scaling them appropriately while preserving aspect ratio.  
-- Can be trained on a custom dataset with bounding box annotations.  
+- **Train / Val / Test** with VOC XML annotations (one XML per image).
+- **Subsampling**: cap training to 2000 images; validation size is a percentage of 2000 (default 20% → 400), and test is capped at 2000.
+- **Simple augmentation**: random horizontal flip.
+- **Evaluation**: Precision / Recall / F1 at **IoU=0.5**.
+- **Visualization**: draw predicted boxes; **optional blur** using OpenCV.
+- **Speed mode (CPU)**: switch to **MobileNetV3-320 FPN**, smaller input (e.g., 320), freeze backbone, and reduce proposals.
 
 ## Technology Stack
 - **Framework:** PyTorch  
@@ -24,28 +26,3 @@ This project implements a **custom deep learning model** to detect number plates
 3. A neural network predicts bounding boxes for number plates.  
 4. Detected plates can be automatically blurred using OpenCV.  
 
-## Usage
-```python
-import cv2
-import torch
-
-# Load image
-img_path = "path/to/your/image.jpg"
-image = cv2.imread(img_path)
-
-# Preprocess and pass through your trained model
-# model = load_your_model()
-# boxes = model.predict(image)
-
-# Blur detected number plates
-for box in boxes:
-    x1, y1, x2, y2 = box
-    roi = image[y1:y2, x1:x2]
-    blurred_roi = cv2.GaussianBlur(roi, (15, 15), 30)
-    image[y1:y2, x1:x2] = blurred_roi
-
-# Save or display result
-cv2.imwrite("blurred_image.jpg", image)
-cv2.imshow("Blurred Image", image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
