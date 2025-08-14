@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>boderngoaigiao15_jpg.rf.f235dc3a6291aa5cf2174a88931a2da7.jpg</filename>
+	<path>boderngoaigiao15_jpg.rf.f235dc3a6291aa5cf2174a88931a2da7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>282</xmin>
+			<xmax>327</xmax>
+			<ymin>198</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

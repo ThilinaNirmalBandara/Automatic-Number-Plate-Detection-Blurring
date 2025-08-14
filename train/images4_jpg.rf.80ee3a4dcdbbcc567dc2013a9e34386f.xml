@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>images4_jpg.rf.80ee3a4dcdbbcc567dc2013a9e34386f.jpg</filename>
+	<path>images4_jpg.rf.80ee3a4dcdbbcc567dc2013a9e34386f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>64</xmin>
+			<xmax>207</xmax>
+			<ymin>112</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

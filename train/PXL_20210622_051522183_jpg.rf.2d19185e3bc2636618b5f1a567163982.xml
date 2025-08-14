@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>PXL_20210622_051522183_jpg.rf.2d19185e3bc2636618b5f1a567163982.jpg</filename>
+	<path>PXL_20210622_051522183_jpg.rf.2d19185e3bc2636618b5f1a567163982.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3890</width>
+		<height>1946</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>3891</xmax>
+			<ymin>1</ymin>
+			<ymax>1947</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

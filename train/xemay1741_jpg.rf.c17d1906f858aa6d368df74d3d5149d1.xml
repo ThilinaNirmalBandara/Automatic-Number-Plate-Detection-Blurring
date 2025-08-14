@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>xemay1741_jpg.rf.c17d1906f858aa6d368df74d3d5149d1.jpg</filename>
+	<path>xemay1741_jpg.rf.c17d1906f858aa6d368df74d3d5149d1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>196</xmin>
+			<xmax>255</xmax>
+			<ymin>194</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

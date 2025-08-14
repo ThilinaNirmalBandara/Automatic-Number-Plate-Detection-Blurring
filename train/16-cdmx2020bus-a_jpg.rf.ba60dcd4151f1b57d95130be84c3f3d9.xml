@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>16-cdmx2020bus-a_jpg.rf.ba60dcd4151f1b57d95130be84c3f3d9.jpg</filename>
+	<path>16-cdmx2020bus-a_jpg.rf.ba60dcd4151f1b57d95130be84c3f3d9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>248</xmax>
+			<ymin>4</ymin>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>c_-20-20What-20are-20good-20algorithms-20for-20vehicle-20li_jpg.rf.0c0ebf91a433c62c241e61955dc02987.jpg</filename>
+	<path>c_-20-20What-20are-20good-20algorithms-20for-20vehicle-20li_jpg.rf.0c0ebf91a433c62c241e61955dc02987.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>315</xmin>
+			<xmax>408</xmax>
+			<ymin>284</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

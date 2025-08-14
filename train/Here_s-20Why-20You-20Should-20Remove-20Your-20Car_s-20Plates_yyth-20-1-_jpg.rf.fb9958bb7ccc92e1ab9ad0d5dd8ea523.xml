@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Here_s-20Why-20You-20Should-20Remove-20Your-20Car_s-20Plates_yyth-20-1-_jpg.rf.fb9958bb7ccc92e1ab9ad0d5dd8ea523.jpg</filename>
+	<path>Here_s-20Why-20You-20Should-20Remove-20Your-20Car_s-20Plates_yyth-20-1-_jpg.rf.fb9958bb7ccc92e1ab9ad0d5dd8ea523.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>581</xmin>
+			<xmax>2109</xmax>
+			<ymin>294</ymin>
+			<ymax>1668</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

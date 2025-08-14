@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>GR86-20front-20license-20plate-20debacle_-20once-20installed_-20d_jpg.rf.9e7620e92438a69fb0bd1bb8ea30ab4e.jpg</filename>
+	<path>GR86-20front-20license-20plate-20debacle_-20once-20installed_-20d_jpg.rf.9e7620e92438a69fb0bd1bb8ea30ab4e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>439</xmin>
+			<xmax>1136</xmax>
+			<ymin>848</ymin>
+			<ymax>1278</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

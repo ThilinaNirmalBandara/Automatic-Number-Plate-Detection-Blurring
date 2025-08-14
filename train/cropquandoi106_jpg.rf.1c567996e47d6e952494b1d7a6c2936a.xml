@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>cropquandoi106_jpg.rf.1c567996e47d6e952494b1d7a6c2936a.jpg</filename>
+	<path>cropquandoi106_jpg.rf.1c567996e47d6e952494b1d7a6c2936a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>146</xmin>
+			<xmax>204</xmax>
+			<ymin>179</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

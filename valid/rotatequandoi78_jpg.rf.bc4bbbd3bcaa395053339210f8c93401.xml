@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>rotatequandoi78_jpg.rf.bc4bbbd3bcaa395053339210f8c93401.jpg</filename>
+	<path>rotatequandoi78_jpg.rf.bc4bbbd3bcaa395053339210f8c93401.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>630</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>749</xmin>
+			<xmax>880</xmax>
+			<ymin>299</ymin>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

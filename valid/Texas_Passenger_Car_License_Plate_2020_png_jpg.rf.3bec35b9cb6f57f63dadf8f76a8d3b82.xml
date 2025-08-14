@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Texas_Passenger_Car_License_Plate_2020_png_jpg.rf.3bec35b9cb6f57f63dadf8f76a8d3b82.jpg</filename>
+	<path>Texas_Passenger_Car_License_Plate_2020_png_jpg.rf.3bec35b9cb6f57f63dadf8f76a8d3b82.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1350</width>
+		<height>698</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>1336</xmax>
+			<ymin>18</ymin>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

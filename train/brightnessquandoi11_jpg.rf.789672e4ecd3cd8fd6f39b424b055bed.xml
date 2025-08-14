@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>brightnessquandoi11_jpg.rf.789672e4ecd3cd8fd6f39b424b055bed.jpg</filename>
+	<path>brightnessquandoi11_jpg.rf.789672e4ecd3cd8fd6f39b424b055bed.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>377</xmin>
+			<xmax>413</xmax>
+			<ymin>185</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

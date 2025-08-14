@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>WONELLY_jpg.rf.1ba76ccc9d9eb3e5991f86c159598d0f.jpg</filename>
+	<path>WONELLY_jpg.rf.1ba76ccc9d9eb3e5991f86c159598d0f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>240</xmin>
+			<xmax>313</xmax>
+			<ymin>349</ymin>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>59-D_NQ_NP_652904-MLM29578417347_032019-W_jpg.rf.5553664594a9f274a4f15553a8ea9ff1.jpg</filename>
+	<path>59-D_NQ_NP_652904-MLM29578417347_032019-W_jpg.rf.5553664594a9f274a4f15553a8ea9ff1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>426</width>
+		<height>568</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>72</xmin>
+			<xmax>359</xmax>
+			<ymin>2</ymin>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

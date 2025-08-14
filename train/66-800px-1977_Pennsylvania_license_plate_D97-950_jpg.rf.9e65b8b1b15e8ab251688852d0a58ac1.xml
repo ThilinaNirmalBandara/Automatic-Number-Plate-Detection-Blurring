@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>66-800px-1977_Pennsylvania_license_plate_D97-950_jpg.rf.9e65b8b1b15e8ab251688852d0a58ac1.jpg</filename>
+	<path>66-800px-1977_Pennsylvania_license_plate_D97-950_jpg.rf.9e65b8b1b15e8ab251688852d0a58ac1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>769</xmax>
+			<ymin>19</ymin>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

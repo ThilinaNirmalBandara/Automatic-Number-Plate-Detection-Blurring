@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>quandoi35_jpg.rf.f06478ec21c58ea8b06dac6e8f0a9974.jpg</filename>
+	<path>quandoi35_jpg.rf.f06478ec21c58ea8b06dac6e8f0a9974.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>313</xmin>
+			<xmax>337</xmax>
+			<ymin>213</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

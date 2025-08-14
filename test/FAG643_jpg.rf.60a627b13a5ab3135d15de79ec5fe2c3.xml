@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>FAG643_jpg.rf.60a627b13a5ab3135d15de79ec5fe2c3.jpg</filename>
+	<path>FAG643_jpg.rf.60a627b13a5ab3135d15de79ec5fe2c3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>155</xmin>
+			<xmax>310</xmax>
+			<ymin>169</ymin>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

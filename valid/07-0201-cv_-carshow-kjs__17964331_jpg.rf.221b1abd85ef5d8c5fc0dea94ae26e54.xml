@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>07-0201-cv_-carshow-kjs__17964331_jpg.rf.221b1abd85ef5d8c5fc0dea94ae26e54.jpg</filename>
+	<path>07-0201-cv_-carshow-kjs__17964331_jpg.rf.221b1abd85ef5d8c5fc0dea94ae26e54.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3400</width>
+		<height>2436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>263</xmin>
+			<xmax>1757</xmax>
+			<ymin>1341</ymin>
+			<ymax>2121</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

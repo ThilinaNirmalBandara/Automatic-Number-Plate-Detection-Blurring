@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>94-1200px-2000_Victoria_registration_plate_YVO_454_The_Place_to_Be_jpg.rf.921dbf3e3cd24e3578b62887ad8aeb58.jpg</filename>
+	<path>94-1200px-2000_Victoria_registration_plate_YVO_454_The_Place_to_Be_jpg.rf.921dbf3e3cd24e3578b62887ad8aeb58.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>1178</xmax>
+			<ymin>16</ymin>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

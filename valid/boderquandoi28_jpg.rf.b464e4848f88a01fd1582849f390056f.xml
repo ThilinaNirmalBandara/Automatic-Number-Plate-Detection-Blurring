@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>boderquandoi28_jpg.rf.b464e4848f88a01fd1582849f390056f.jpg</filename>
+	<path>boderquandoi28_jpg.rf.b464e4848f88a01fd1582849f390056f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>245</xmax>
+			<ymin>252</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

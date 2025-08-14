@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>EMOTION_jpg.rf.d5648d1db024f9f655b2b40bc35341bc.jpg</filename>
+	<path>EMOTION_jpg.rf.d5648d1db024f9f655b2b40bc35341bc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>173</xmin>
+			<xmax>253</xmax>
+			<ymin>249</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

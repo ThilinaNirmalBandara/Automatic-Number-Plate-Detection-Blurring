@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>1200px-China_Fujian_Sanming_license_plate_jpg.rf.6b9d24e6922ffbdca09c63be50bfb15f.jpg</filename>
+	<path>1200px-China_Fujian_Sanming_license_plate_jpg.rf.6b9d24e6922ffbdca09c63be50bfb15f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>8</xmin>
+			<xmax>1187</xmax>
+			<ymin>18</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

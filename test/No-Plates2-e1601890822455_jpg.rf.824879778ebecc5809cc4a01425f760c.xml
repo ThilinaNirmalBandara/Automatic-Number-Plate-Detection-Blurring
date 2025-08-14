@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>No-Plates2-e1601890822455_jpg.rf.824879778ebecc5809cc4a01425f760c.jpg</filename>
+	<path>No-Plates2-e1601890822455_jpg.rf.824879778ebecc5809cc4a01425f760c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>1020</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

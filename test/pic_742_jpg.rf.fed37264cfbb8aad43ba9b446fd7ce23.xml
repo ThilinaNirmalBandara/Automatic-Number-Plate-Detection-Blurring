@@ -1,0 +1,33 @@
+<annotation>
+	<folder></folder>
+	<filename>pic_742_jpg.rf.fed37264cfbb8aad43ba9b446fd7ce23.jpg</filename>
+	<path>pic_742_jpg.rf.fed37264cfbb8aad43ba9b446fd7ce23.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>237</xmin>
+			<xmax>343</xmax>
+			<ymin>230</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>False-positive</tag>
+			<tag>hackathon</tag>
+		</tags>
+	</metadata>
+</annotation>

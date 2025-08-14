@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>lede-licenseplates_jpg.rf.b3f4e18f23c8600b362e0b85ae272a38.jpg</filename>
+	<path>lede-licenseplates_jpg.rf.b3f4e18f23c8600b362e0b85ae272a38.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>5568</width>
+		<height>3132</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

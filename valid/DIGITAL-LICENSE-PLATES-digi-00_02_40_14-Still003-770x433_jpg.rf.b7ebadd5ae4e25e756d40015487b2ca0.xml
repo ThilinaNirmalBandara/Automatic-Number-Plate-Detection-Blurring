@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>DIGITAL-LICENSE-PLATES-digi-00_02_40_14-Still003-770x433_jpg.rf.b7ebadd5ae4e25e756d40015487b2ca0.jpg</filename>
+	<path>DIGITAL-LICENSE-PLATES-digi-00_02_40_14-Still003-770x433_jpg.rf.b7ebadd5ae4e25e756d40015487b2ca0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>770</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>243</xmin>
+			<xmax>494</xmax>
+			<ymin>154</ymin>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

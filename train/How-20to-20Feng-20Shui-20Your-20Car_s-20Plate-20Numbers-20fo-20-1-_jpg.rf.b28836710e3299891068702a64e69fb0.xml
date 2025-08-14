@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>How-20to-20Feng-20Shui-20Your-20Car_s-20Plate-20Numbers-20fo-20-1-_jpg.rf.b28836710e3299891068702a64e69fb0.jpg</filename>
+	<path>How-20to-20Feng-20Shui-20Your-20Car_s-20Plate-20Numbers-20fo-20-1-_jpg.rf.b28836710e3299891068702a64e69fb0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>127</xmin>
+			<xmax>226</xmax>
+			<ymin>63</ymin>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

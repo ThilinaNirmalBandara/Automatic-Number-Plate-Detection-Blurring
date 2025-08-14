@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>38-800px-County_of_Maui-2C_Hawaii_vehicle_CofM_license_plate_jpg.rf.c7cc0436cf04ff0dea1b7692bba67e07.jpg</filename>
+	<path>38-800px-County_of_Maui-2C_Hawaii_vehicle_CofM_license_plate_jpg.rf.c7cc0436cf04ff0dea1b7692bba67e07.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>276</xmin>
+			<xmax>495</xmax>
+			<ymin>254</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>False-positive</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>WhatsApp-Image-2022-04-04-at-2-25-13-PM_jpeg_jpg.rf.3e6c7589fdae75ab0d26556ac8ad7e49.jpg</filename>
+	<path>WhatsApp-Image-2022-04-04-at-2-25-13-PM_jpeg_jpg.rf.3e6c7589fdae75ab0d26556ac8ad7e49.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>693</xmin>
+			<xmax>1076</xmax>
+			<ymin>431</ymin>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

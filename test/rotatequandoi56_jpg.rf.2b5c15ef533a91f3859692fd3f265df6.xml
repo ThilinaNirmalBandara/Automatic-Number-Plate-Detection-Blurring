@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>rotatequandoi56_jpg.rf.2b5c15ef533a91f3859692fd3f265df6.jpg</filename>
+	<path>rotatequandoi56_jpg.rf.2b5c15ef533a91f3859692fd3f265df6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>354</xmin>
+			<xmax>493</xmax>
+			<ymin>594</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>hackathon</tag>
+		</tags>
+	</metadata>
+</annotation>

@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>81-800px-NEW_YORK_1980-86_LICENSE_PLATE_0000-AAA_FORMAT_-_Flickr_-_woody1778a_jpg.rf.a041bdfd38900a9e0b10684dc9c4581d.jpg</filename>
+	<path>81-800px-NEW_YORK_1980-86_LICENSE_PLATE_0000-AAA_FORMAT_-_Flickr_-_woody1778a_jpg.rf.a041bdfd38900a9e0b10684dc9c4581d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>783</xmax>
+			<ymin>14</ymin>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>hackathon</tag>
+		</tags>
+	</metadata>
+</annotation>

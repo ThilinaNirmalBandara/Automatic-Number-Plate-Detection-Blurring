@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>53-GRO-GZA9999-GZU2759_jpg.rf.9fe61a3387f97df1c982a41ff93efc1d.jpg</filename>
+	<path>53-GRO-GZA9999-GZU2759_jpg.rf.9fe61a3387f97df1c982a41ff93efc1d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>371</xmax>
+			<ymin>6</ymin>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Digital-LP_jpg.rf.ff9905091eba4e998d508cb487659202.jpg</filename>
+	<path>Digital-LP_jpg.rf.ff9905091eba4e998d508cb487659202.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>526</xmin>
+			<xmax>744</xmax>
+			<ymin>195</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

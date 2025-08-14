@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>12-cdmx2017_jpg.rf.82701f2cf0403134778e8bbd0831bdd0.jpg</filename>
+	<path>12-cdmx2017_jpg.rf.82701f2cf0403134778e8bbd0831bdd0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>6</xmin>
+			<xmax>243</xmax>
+			<ymin>4</ymin>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

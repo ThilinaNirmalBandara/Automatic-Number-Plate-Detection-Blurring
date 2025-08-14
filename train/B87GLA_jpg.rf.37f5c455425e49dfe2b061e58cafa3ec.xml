@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>B87GLA_jpg.rf.37f5c455425e49dfe2b061e58cafa3ec.jpg</filename>
+	<path>B87GLA_jpg.rf.37f5c455425e49dfe2b061e58cafa3ec.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>288</xmax>
+			<ymin>367</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

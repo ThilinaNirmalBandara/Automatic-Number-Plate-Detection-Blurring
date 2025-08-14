@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>german-car-registration-license-plate-cologne-koln-germany-europe-C6ENJN_jpg.rf.3ac52c52d941dcab53bceff57c1a3d74.jpg</filename>
+	<path>german-car-registration-license-plate-cologne-koln-germany-europe-C6ENJN_jpg.rf.3ac52c52d941dcab53bceff57c1a3d74.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>222</xmin>
+			<xmax>1088</xmax>
+			<ymin>461</ymin>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

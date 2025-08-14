@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Car-20License-20Plate-20designs_-20themes_-20templates-20and-20do_png_jpg.rf.84cadc7d05fad206c1ffe74cc2d61a16.jpg</filename>
+	<path>Car-20License-20Plate-20designs_-20themes_-20templates-20and-20do_png_jpg.rf.84cadc7d05fad206c1ffe74cc2d61a16.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>103</xmin>
+			<xmax>302</xmax>
+			<ymin>99</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

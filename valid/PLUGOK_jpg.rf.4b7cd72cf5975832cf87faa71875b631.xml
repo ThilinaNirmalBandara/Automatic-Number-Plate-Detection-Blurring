@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>PLUGOK_jpg.rf.4b7cd72cf5975832cf87faa71875b631.jpg</filename>
+	<path>PLUGOK_jpg.rf.4b7cd72cf5975832cf87faa71875b631.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>172</xmin>
+			<xmax>254</xmax>
+			<ymin>275</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

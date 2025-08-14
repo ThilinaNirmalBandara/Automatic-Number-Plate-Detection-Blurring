@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>CP_Blog_Image_2018_License_3LECTRIC_jpg.rf.c67db83b45475daf44f63b11ddb2b269.jpg</filename>
+	<path>CP_Blog_Image_2018_License_3LECTRIC_jpg.rf.c67db83b45475daf44f63b11ddb2b269.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>603</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>301</xmin>
+			<xmax>423</xmax>
+			<ymin>172</ymin>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
